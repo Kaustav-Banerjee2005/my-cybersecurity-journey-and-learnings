@@ -1,0 +1,12 @@
+a) Social Engineering -- In this method the hacker calls an individuals pretending to be someone else and tries to get their information . Example - a hacker calls an customer as a bank employee and ask them their
+bank pin code to confirm their indentify this is called Social Engineering .
+b)Deial of Service attack - This is a simple attack in which the computer slows down or the computer crashes . thisn  can be done in 2 ways 
+i)the attackers sends the host machine enormous amount of data that the host cannot handle causing the whole system to slow doen or to crash .
+ii)the attackers sends a malicious packet of data that when open cause trouble to open resulting in slowing down or crashing of the machine .
+c)Distributed Dos Attack - This is similar to Dos attack , in this attck the attacker controls computers which are called zombies . These Zombies scan and infect more computers . When the hacker is ready 
+it instructs the zombie computers to carry out the Dos attack.
+d)Botnet - A bot computer is infected when visiting a unsafe sites . These are group of infected computers that are controlled by the Hacker . These bots can be activated to spam emails , carry out Dos attacks etc.
+e)On Path Attacks - In this case the attackers gets the information sent by the user before it reaches its destination . The hackers is in the between the sender and the reciever .
+f)SEO poisoning - In this type of attack the hacker ranks the website using SEO optimising to increase traffic on malicious sites .
+g)Password attcks - types of this attcks are as follows
+i)Password spraying - In this type of attack the hacker tries to break into the users account by using the most commonly used passwords .
