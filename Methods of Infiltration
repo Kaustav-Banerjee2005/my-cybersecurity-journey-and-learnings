@@ -10,3 +10,11 @@ e)On Path Attacks - In this case the attackers gets the information sent by the 
 f)SEO poisoning - In this type of attack the hacker ranks the website using SEO optimising to increase traffic on malicious sites .
 g)Password attcks - types of this attcks are as follows
 i)Password spraying - In this type of attack the hacker tries to break into the users account by using the most commonly used passwords .
+ii)Dictionary Attacks - A hacker systematically tries every word in a dictionary or a list of commonly used words as a password in an attempt to 
+break into a password-protected account.
+iii)Brute Force attacks - In this attack the hacker tries evry posible combination until the hacker gets the correct one .
+iv)Rainbow attacks -Passwords in a computer system are not stored as plain text, but as hashed values (numerical values that uniquely identify data).
+A rainbow table is a large dictionary of precomputed hashes and the passwords from which they were calculated.
+Unlike a brute-force attack that has to calculate each hash, a rainbow attack compares the hash of a 
+password with those stored in the rainbow table. When an attacker finds a match, they identify the password used to create the hash.
+
