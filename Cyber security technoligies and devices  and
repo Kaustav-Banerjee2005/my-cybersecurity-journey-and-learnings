@@ -1,0 +1,15 @@
+Intrusion Preventions system (IPS) - Ips uses a set of traffic signatures that match and block malicious trafficand attacks .
+Virtual Private Networks (VPN) - It let employees use a secure tunnel from their mobile connections and securley connec t back to the organization
+What is Firewall ?
+In computer networking, a firewall is designed to control or filter which communications are allowed in and which are allowed out of a device or network.
+A firewall can be installed on a single computer with the purpose of protecting that one computer (host-based firewall) or
+it can be a standalone network device that protects an entire network of computers and all of the host devices on that network
+Types  of Firewall are -
+i) network layer firewall- This filters communications based on source and destination IP addresses.
+ii)transport layer firewall - Filters communications based on source and destination data ports, as well as connection states.
+iii)Application layer firewall - Filters communications based on an application, program or service.
+iv)Context aware layer firewall - Filters communications based on the user, device, role, application type and threat profile.
+v)proxy server - Filters web content requests like URLs, domain names and media types.
+vi)reverse proxy server - Placed in front of web servers, reverse proxy servers protect, hide, offload and distribute access to web servers.
+vii)Netwrork Address translation firewall - This firewall hides or masquerades the private addresses of network hosts.
+viii)Host based firewall - Filters ports and system service calls on a single computer operating system.
