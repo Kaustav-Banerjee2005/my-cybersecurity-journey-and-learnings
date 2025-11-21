@@ -13,3 +13,9 @@ v)proxy server - Filters web content requests like URLs, domain names and media 
 vi)reverse proxy server - Placed in front of web servers, reverse proxy servers protect, hide, offload and distribute access to web servers.
 vii)Netwrork Address translation firewall - This firewall hides or masquerades the private addresses of network hosts.
 viii)Host based firewall - Filters ports and system service calls on a single computer operating system.
+
+
+An IPS can block or deny traffic based on a positive rule or signature match.
+An IDS scans data against a database of rules or attack signatures, looking for malicious traffic.
+A DLP system is designed to stop sensitive data from being stolen from or escaping a network. 
+A SIEM system collects and analyzes security alerts, logs and other real-time and historical data from security devices on the network.
